@@ -1,6 +1,7 @@
 # Kickstarter Projects Analysis and Visualization
 
 ## Project Overview
+<img src='https://github.com/unguyen14/Kickstarter_project_analysis/blob/main/media/crowdfunding.png'></img>
 This project aims to provide Kickstarter enthusiasts, including backers, creators, or even inquisitors, a general perception about successful projects that met the funding goal, as well as a rough projection of the successful rate in 3 years from 2021 to 2023, detailing in geographical and categorical characteristics. 
 
 **Methods:**
@@ -20,6 +21,13 @@ Using the history data, I hope to deliver a general ideas over successful and fa
 |   -- data                                                 Includes datasets link and a preprocessing script    
 |     --- Kickstarter_2020_data_cleaning.ipynb              Python codes to merge and clean data, ready for dashboard
 |     --- datasets_link.md                                  Link to datasets
+|   -- media                                                Includes screenshots of the dashboard
+|     --- crd00.png
+|     --- crd000.png
+|     --- crd01.png
+|     --- crd011.png
+|     --- crd02.png
+|     --- crowdfunding.png
 |   -- report                                               Includes a detailed report regarding the development
 |     --- Kickstarter_dashboard_report.pdf
 |   -- .gitignore                                           Ignores heavy files
