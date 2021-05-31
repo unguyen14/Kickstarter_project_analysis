@@ -13,6 +13,8 @@ This project aims to provide Kickstarter enthusiasts, including backers, creator
 
 Using the history data, I hope to deliver a general ideas over successful and failed projects along with their ability to draw funds. Furthermore, the existing data can also produce a estimated model for future projects. The dashboard filters data based on locations, which allows users to understand the unique local growth of projects better. 
 
+Please click [here](https://public.tableau.com/app/profile/winnie.nguyenn/viz/Kickstarter_16104885900510/MainDashboard) to view the interactive dashboard on Tableau.
+
 ## Project Directory
 ```
 | - Kickstarter_project_analysis        
